@@ -1,0 +1,118 @@
+body {
+  margin:0; 
+  text-align: center;
+  
+}
+
+.h1-1{
+  font-family: 'Italianno', cursive;
+  font-size: 70px;
+  margin: 100px auto 0 auto;
+}
+
+.h1-2{
+  font-family: 'Italianno', cursive;
+  font-size: 60px;
+}
+
+.h1-3{
+  font-family: 'Italianno', cursive;
+  color: white;
+  padding: 30px;
+  font-size: 60px;
+}
+
+.h1-4{
+  font-family: verdane;
+  font-size: 20px;
+}
+
+.h1-5{
+  font-family: 'Codystar', cursive;
+  color: white;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+
+}
+
+
+.top-container{
+  background-color: #6886c5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #ffd31d;
+  padding-bottom: 5px;
+  padding-top: 5px;
+
+}
+
+.bottom-container{
+  background-color: black;
+  padding-top: 5px;
+}
+
+
+.web {
+  text-decoration: underline;
+
+}
+
+.table1 {
+  color: white;
+  position: relative;
+  margin:auto; 
+  padding-bottom:30px;
+  font-size: 20px
+}
+
+.white-h3{
+  color: white;
+  padding-top: 30px;
+
+}
+
+.ul {
+  list-style: none;
+}
+
+.contact-me{
+  background-color: #ffd31d;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 20px;
+
+}
+
+
+.Online-Coding-Academy {
+  text-decoration: none;
+  font-family: arial;
+  color: #F8FF3B !important;
+  font-size: 21px;
+  padding: 6px 40px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;
+  background: #000000;
+}
+.Online-Coding-Academy:hover {
+  color: #FFF824 !important;
+  background: #C5C94F;
+  background: linear-gradient(top,  #CFCA3C,  #070803);
+  background: -ms-linear-gradient(top,  #CFCA3C,  #070803);
+  background: -webkit-gradient(linear, left top, left bottom, from(#CFCA3C), to(#070803));
+  background: -moz-linear-gradient(top,  #CFCA3C,  #070803);
+}
